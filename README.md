@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<div style="text-align:right;">
+<div style="float:left;width:400px">
 <h3 align="center">A passionate frontend developer from India, eager to learn and I learn to perform!</h3>
 <img align="right" alt="Coding" width="180" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/440px-React-icon.svg.png")
 </div>
