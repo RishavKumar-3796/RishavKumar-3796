@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **rishavkumar.letsnurture@gmail.com**
 
-- ⚡ Fun fact **I workout at night, coz light attract bugs!**
+- ⚡ Fun fact **I love chicken, not bugs 🐿️!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
