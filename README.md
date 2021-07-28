@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<div style="float:left;">
-<h3 align="center">A passionate frontend developer from India, eager to learn and I learn to perform!</h3>
-<img align="center" alt="Coding" width="280" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/440px-React-icon.svg.png")
-</div>
 
+<h3 align="center">A passionate frontend developer from India, eager to learn and I learn to perform!</h3>
+<div align='center'>
+<img align="center" alt="Coding" width="280" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/440px-React-icon.svg.png")
+     </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavkumar-3796&label=Profile%20views&color=0e75b6&style=flat" alt="rishavkumar-3796" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavkumar-3796" alt="rishavkumar-3796" /></a> </p>
 
